@@ -1,0 +1,19 @@
+# Node.js specific
+node_modules/
+
+# TypeScript output
+dist/
+
+# Environment variables
+.env
+
+# Logs
+*.log
+
+# Local IDE settings
+.vscode/
+.idea/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
